@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ankitshru
-- 👀 I’m interested in Tech related stuffs
-- 🌱 I’m currently learning Deep learning 
+- 👋 Hi, I’m Ankit Shrungare, a Web developer passionate about building innovative solutions and exploring emrging technologies.
+- 👀 I am fresher in full stack development 
+- 🌱 I’m currently learning Deep
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
